@@ -1,4 +1,4 @@
-# Projeto_SPA_Newtab
-Primeiro projeto front-end Newtab Academy com HTML, CSS e Javascript para uma 'Single Page Application' (SPA).
+# Projeto_SPA
+Projeto em React/SPA para a atividade 7 da matéria de Desenvolvimento Front-End do curso de Pós graduação de Desenvolvimento WEB Full Stack.
 
 https://projeto-spa-newtab-filipemartins.netlify.app/
